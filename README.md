@@ -24,6 +24,9 @@ cd oop_java-banking_system_25ce092
 ./run.sh
 ```
 
+> **📦 Standalone ZIP Archive:**
+> For academic portal submissions (e.g., Moodle/Google Classroom), a pre-packaged clean archive is available directly in the root of this repository: [`oop_java-banking_system_25ce092.zip`](oop_java-banking_system_25ce092.zip).
+
 > **Windows Users:** Run `scripts\run.bat` or run:
 > ```cmd
 > javac -d bin -sourcepath src src/com/bank/Main.java
